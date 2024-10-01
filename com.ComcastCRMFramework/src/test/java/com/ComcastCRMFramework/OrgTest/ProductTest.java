@@ -7,6 +7,7 @@ public class ProductTest {
 	System.out.println("cse");
 	
 	System.out.println("product is cteated");
+	System.out.println("new product created");
 	}
 
 }
